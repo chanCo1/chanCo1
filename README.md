@@ -17,6 +17,8 @@ Here are some ideas to get you started:
   Hi, I'm Chanwoo 🙌
 </h3>
 
+<br />
+
 <div align="center">
   
 🔥 I CAN DO IT! 🔥
