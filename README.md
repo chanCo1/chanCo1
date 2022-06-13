@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h3 align="center">
+  Hi, I'm Chanwoo 🙌
+</h3>
+
 <div align="center">
   
 🔥 I CAN DO IT! 🔥
