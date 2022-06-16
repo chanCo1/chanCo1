@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 
 </div>
     
-[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
+[![Hits](https://hits.sh/github.com/chanCo1/hits.svg)](https://hits.sh/github.com/chanCo1/hits/)
