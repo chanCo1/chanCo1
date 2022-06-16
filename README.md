@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 ![chanCo's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanCo1&show_icons=true&theme=discord_old_blurple)
 
 </div>
+    
+[![Hits](https://hits.sh/github.com/silentsoft/hits.svg)](https://hits.sh/github.com/silentsoft/hits/)
