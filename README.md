@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h3>Hello! I'm Chanwoo 🙌 <h3>
+  <h3>Hi! I'm Chanwoo 🙌 <h3>
 </div>
 
 
