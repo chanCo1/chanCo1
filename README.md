@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <h3>Hi! I'm Chanwoo 🙌 <h3>
+  <h3>안녕하세요. 박찬우 입니다! 😃<h3>
 </div>
 
 
