@@ -6,8 +6,6 @@
 
 <div align="center">🔥 I CAN DO IT! 🔥</div>
 
-<br>
-
 ## 🛠️ Tech Stacks
 
 ### 💻 Frontend
