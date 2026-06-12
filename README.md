@@ -39,6 +39,7 @@
 
 ### 🧰 ETC
 <div>
+  <img src="https://img.shields.io/badge/Jest-C03B13?style=for-the-badge&logo=jest&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
